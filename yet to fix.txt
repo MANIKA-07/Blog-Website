@@ -1,0 +1,4 @@
+1.Error not appearing to user while login and signup
+2.Can merge contact and about and maybe introduce some new header component.Till then the pic in contact
+3.hide password
+4. Add reply on comments feature
